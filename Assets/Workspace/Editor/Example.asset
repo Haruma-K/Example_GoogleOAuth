@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1cabd22ec3da6664ebae8d64101f694c, type: 3}
   m_Name: Example
   m_EditorClassIdentifier: 
-  _clientId: 704885398769-ppn7eb9rds5d2kb51unfvchrvtkga7vb.apps.googleusercontent.com
-  _clientSecret: 86rKg6jMYdRXeZluvqlsF9Pg
+  _clientId: 
+  _clientSecret: 
